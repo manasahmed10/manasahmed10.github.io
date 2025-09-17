@@ -83,7 +83,7 @@ section {
 }
 
 .certificate-card img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
     border-radius: 5px;
     margin-bottom: 1rem;
@@ -99,4 +99,5 @@ footer {
     padding: 1rem;
     background: #333;
     color: #fff;
+
 }
