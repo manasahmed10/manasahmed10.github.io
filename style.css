@@ -75,9 +75,6 @@ section {
 }
 
 .project-card, .certificate-card {
-    max-width: 100%;
-    height: 100px;
-    object-fit: cover;
     background: #fff;
     padding: 2rem;
     border-radius: 10px;
@@ -104,6 +101,7 @@ footer {
     color: #fff;
 
 }
+
 
 
 
