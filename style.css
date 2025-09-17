@@ -75,6 +75,8 @@ section {
 }
 
 .project-card, .certificate-card {
+    max-width: 100%;
+    object-fit: cover;
     background: #fff;
     padding: 2rem;
     border-radius: 10px;
@@ -83,7 +85,7 @@ section {
 }
 
 .certificate-card img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     border-radius: 5px;
     margin-bottom: 1rem;
@@ -101,3 +103,4 @@ footer {
     color: #fff;
 
 }
+
